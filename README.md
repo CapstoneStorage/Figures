@@ -1,2 +1,2 @@
 # Figures
-codes for figures
+Codes for figures
